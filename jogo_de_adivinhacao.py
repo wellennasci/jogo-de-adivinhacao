@@ -1,6 +1,6 @@
 # jogo da adivinhação
 
-#randint é um ´método do pacote ramdom retornar um número inteiro aleatório, incluindo as duas pontas [a,b] são inclusivos
+#randint é um método do pacote ramdom retornar um número inteiro aleatório, incluindo as duas pontas [a,b] são inclusivos
 
 #ramndom ( gera várias possibilidades de trazer números aleatórios) (randint gera um número aleatório inteiro)
 
